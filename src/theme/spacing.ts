@@ -1,0 +1,11 @@
+export const TINY = 8;
+export const XXSMALL = 10;
+export const XSMALL = 12;
+export const SMALL = 14;
+export const MEDIUM = 16;
+export const XMEDIUM = 18;
+export const BIG = 20;
+export const MBIG = 22;
+export const XBIG = 24;
+export const XXBIG = 26;
+export const LARGE = 28;
